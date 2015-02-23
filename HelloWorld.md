@@ -13,7 +13,8 @@ In this trial of adding the doc to github
 * no git init because file already exists
 * git add
 * git commit 
-* git push 
+* git push origin master
+* password doesn't show characters but it's typing
 
 
 Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
